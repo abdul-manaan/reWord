@@ -18,4 +18,11 @@ npx react-native run-android #Run this command in separate terminal
 
 Please find below the screenshots of different screens:
 
-![](./ScreenShots/screen1.png)
+<p align="center">
+  <img src="./ScreenShots/screen1.png" width="350" title="Screen 1">
+  <img src="./ScreenShots/screen2.png" width="350" title="Screen 2">
+  <img src="./ScreenShots/screen3.png" width="350" title="Screen 3">
+  <img src="./ScreenShots/screen4.png" width="350" title="Screen 4">
+  <img src="./ScreenShots/screen5.png" width="350" title="Screen 5">
+  <img src="./ScreenShots/screen6.png" width="350" title="Screen 6">
+</p>

@@ -1,0 +1,623 @@
+{
+    "appalling": [
+        "monstrous, nightmarish, heinous, harrowing, dire, vile, loathsome, odious, deplorable"
+    ],
+    "astounded": [
+        "dazed, baffled, flabbergasted, dumbfound, stupefy, nonplus"
+    ],
+    "apparently": [
+        "allegedly, supposedly, reputedly, ostensibly, outwardly, seemingly"
+    ],
+    "attached to": [
+        "joined, fastened, affectionate towards, tender towards"
+    ],
+    "appraised": [
+        "assess, evaluate, estimate, judge, rate, gaug e,"
+    ],
+    "alas": [
+        "used to express grief, pity, or concern, woe, alack"
+    ],
+    "abruptly": [
+        "all of a sudden, precipitously, suddenly, unexpectedly"
+    ],
+    "accentuated": [
+        "underline, underscore, accent, highlight, sp otlight, foreground, feature"
+    ],
+    "anxieties": [
+        "worry, concern, apprehension, apprehensive ness, consternation"
+    ],
+    "boon": [
+        "blessing, godsend, bonus, good thing, benefit, help, aid, advantage"
+    ],
+    "bewilderment": [
+        "confusion, disorientation, perplexity, bafflement, daze discombobulation"
+    ],
+    "briskly": [
+        "nimbly, rapidly, vigorously, brusquely, promptly"
+    ],
+    "bead (n, v)": [
+        "globule, spherule, sphere, oval, ovoid, furnish, adorn"
+    ],
+    "brimming": [
+        "packed, overfull, full, bursting, teeming"
+    ],
+    "baffling": [
+        "thwart, frustrate, foil, balk, check, block, hin der, obstruct, bar, prevent, deflect"
+    ],
+    "bashful": [
+        "shy, reserved, diffident, retiring, self- conscious, coy, demure, reticent, reluctant, s hrinking"
+    ],
+    "beckoned": [
+        "entice, invite, tempt, coax, lure, charm, attract, draw, motioned, gestured, wave"
+    ],
+    "coveted": [
+        "desirable, desired, in demand(p), sought after"
+    ],
+    "credentials (n, v)": [
+        "certificates, diplomas, documents approve, allow, vet"
+    ],
+    "capacious": [
+        "roomy, commodious, spacious, ample, big, la rge, sizeable, generous"
+    ],
+    "collided with": [
+        "clash, differ, diverge, disagree"
+    ],
+    "confront": [
+        "face, beset, harass, worry, oppress, annoy, v ex, irritate, exasperate, strain, stress"
+    ],
+    "compelled": [
+        "pressure, impel, drive, press, push, urge"
+    ],
+    "crudely": [
+        "artlessly, inexpertly"
+    ],
+    "coaxed": [
+        "persuade, wheedle, cajole, beguile, flatter, seduce, lure, entice, tempt, i nveigle, woo, manoeuvre"
+    ],
+    "comprehension": [
+        "grasp, grip, conception, apprehension, cogni tion, cognizance, ken, knowledge, awareness, perception, discernment;"
+    ],
+    "curious": [
+        "extraordinary, remarkable, puzzling, mystifyi ng, mysterious, perplexing, baffling, unaccountable, ,"
+    ],
+    "casually": [
+        "by chance, inadvertently, unintentionally, informally"
+    ],
+    "confining": [
+        "enclose, incarcerate, imprison, intern, impound,"
+    ],
+    "crammed": [
+        "stuff, pack, jam, fill, crowd, throng; overfill, rout, crush"
+    ],
+    "confirm": [
+        "affirm, corroborate, reassert, substantiate, s upport, sustain"
+    ],
+    "cautioned": [
+        "advise, warn, recommend, counsel, urge, ad monish, exhort"
+    ],
+    "captivated": [
+        "enthral, charm, enchant, bewitch, fascinate, beguile, entrance, enrapture, delight, attract , allure, lure"
+    ],
+    "condescended": [
+        "patronize, treat condescendingly, speak condescendingly to, speak haughtily to, talk down to, look down one's nose at, look down on, put down, be snobbish to, design, stoop"
+    ],
+    "criteria": [
+        "standard, norm, yardstick, benchmark, touch stone, test, formula, measure, gauge, scale, barometer, indicator, litmus test"
+    ],
+    "daintily": [
+        "exquisitely, deftly, neatly"
+    ],
+    "dispute": [
+        "debate, discussion, discourse, disputation, ar gument, controversy, contention, disagreement, altercation, falling-out"
+    ],
+    "distract": [
+        "disturbing, unsettling, intrusive, disconcerting, bothersome, confusing"
+    ],
+    "drummed": [
+        "tap, beat, rap, knock, strike, thud, thump"
+    ],
+    "dilapidated": [
+        "shabby, battered, rickety, shaky, unsound, crumbling, ruined, decayed, decaying, worn out"
+    ],
+    "disconsolately": [
+        "desolately"
+    ],
+    "delicately": [
+        "exquisitely, fine, finely"
+    ],
+    "dank": [
+        "damp, musty, chilly, clammy, wet, moist, un aired, moisture-laden, humid"
+    ],
+    "disguise": [
+        "camouflage, concealment; outfit, costume"
+    ],
+    "definite": [
+        "certain, sure, positive, absolute, conclusive, decisive, firm, concrete, final, unambiguous, unequivocal"
+    ],
+    "dispensing": [
+        "waive, omit, drop, leave out, forgo, give up, relinquish"
+    ],
+    "enchanted": [
+        "delighted, fascinated, enraptured, entranced"
+    ],
+    "encouraged": [
+        "stimulate, animate, invigorate, vitalize, revit alize, embolden, fortify, rally, incite"
+    ],
+    "exude": [
+        "display, show, exhibit, manifest, demonstrat e, transmit, breathe, embody"
+    ],
+    "eccentric": [
+        "acentric, bizarre, case, character, eccentric person, flaky, freakish, freaky, geek, noncon centric, oddball, off-center, off- centered, outlandish, outre, type, unconvent ional"
+    ],
+    "excursion": [
+        "outing, expedition, jaunt, junket, cruise, pleasure trip, sashay"
+    ],
+    "elaborate": [
+        "careful, complicate, detailed, dilate, elaborat ed, enlarge, expand, expatiate,exposit, expo und, fancy, flesh out, lucubrate, luxuriant, rarify, refine, work out"
+    ],
+    "exasperation": [
+        "irritation, annoyance, chagrin, vexation, ang er, fury, rage, wrath, spleen"
+    ],
+    "expansive": [
+        "cavernous, communicative, communicatory, distensible, erectile, euphoric, expandable, e xpandible, expansible, grand, happy, impress ive, inflatable, talkative"
+    ],
+    "exaggeration": [
+        "hyperbole, magnification, overstatement"
+    ],
+    "evaluates": [
+        "judge, gauge, rate, estimate, appraise"
+    ],
+    "fatality": [
+        "death, casualty, mortality, victim, loss"
+    ],
+    "flicked": [
+        "swish, twitch, wave, wag, waggle, shake, whi p, twirl, swing, brandish"
+    ],
+    "flawlessly": [
+        "spotlessly, immaculately, perfectly, impeccably, soundly, purely"
+    ],
+    "friction": [
+        "clash, detrition, rubbing, rubbing"
+    ],
+    "fluttered": [
+        "beat, quiver, agitate, vibrate, twitch, shake, wag, waggle, swing, oscillate, thresh, thrash, flail"
+    ],
+    "gingerly": [
+        "cautiously, carefully, delicately, warily, charil y, guardedly, circumspectly, prudently, judic iously, on one's guard, on the alert,"
+    ],
+    "glistening": [
+        "bright, glossy, lustrous, sheeny, shining, shiny"
+    ],
+    "fringed": [
+        "frontier, boundary, partition, borderline, divi ding line"
+    ],
+    "glared": [
+        "stare angrily, scowl, glower, look daggers, frown, give someone a black look"
+    ],
+    "groggy": [
+        "fuddled, muddled, confused, bewildered, dis oriented, disorientated, vague, benumbed, n umb, stunned, dizzy, punch- drunk, shaky, staggering"
+    ],
+    "heap": [
+        "pile, stack, mass, mound, mountain, quantity , load, lot, bundle, jumble"
+    ],
+    "hideous": [
+        "horrid, horrific, offensive, outrageous, repuls ive, ugly"
+    ],
+    "habitat": [
+        "natural environment, natural element, natural territory, natural surroundings, natural terrain, home, domain, haunt"
+    ],
+    "haggard": [
+        "bony, cadaverous, careworn, drawn, emacia ted, gaunt, lean, pinched, raddled, skeletal, t hin, tired, wasted, worn"
+    ],
+    "haphazardly": [
+        "arbitrarily, at random, every which way, haphazard, indiscriminately, randomly, willy-nilly"
+    ],
+    "harmony": [
+        "concord, concordance, harmoniousness, mu sical harmony"
+    ],
+    "haughty": [
+        "disdainful, lordly, prideful, proud, sniffy, sup ercilious, swaggering"
+    ],
+    "hearsay": [
+        "indirect, rumor, rumour"
+    ],
+    "havoc": [
+        "devastation, destruction, damage, desolatio n, depredation, despoliation, ruination, ruin, disaster"
+    ],
+    "intended": [
+        "considered, studied, knowing, wilful, wanton , purposeful, purposive"
+    ],
+    "in vain": [
+        "worthless, nugatory; ineffective, ineffectual, inefficacious, impote nt, powerless, unavailing"
+    ],
+    "illumination": [
+        "light, lighting, radiance, gleam, glitter, brillia nce, glow, glare, dazzle, flash,"
+    ],
+    "invariably": [
+        "regularly, consistently, repeatedly, habituall y, unfailingly"
+    ],
+    "irritable": [
+        "bad- tempered, irascible, tetchy, testy, touchy, scratchy, grumpy, grouchy,"
+    ],
+    "insinuated": [
+        "imply, suggest, hint, intimate, whisper, indicate, imply, sneak, infiltrate"
+    ],
+    "intently": [
+        "attentively, closely, keenly, steadily, steadfastly"
+    ],
+    "industry": [
+        "diligence, industriousness, manufacture"
+    ],
+    "intolerable": [
+        "bitter, impossible, insufferable, unacceptable, unbearable, unendurable, insufferable, unsupportable"
+    ],
+    "imperceptibly": [
+        "observably, unnoticeably, impalable"
+    ],
+    "judicial": [
+        "critical, discriminative, juridical, legal"
+    ],
+    "judgment": [
+        "assessment, discernment, judgement, judgin g, judicial decision, mind, opinion, perspicacity, sagaciousness, sagacity, sound judgment"
+    ],
+    "junction": [
+        "adjunction, articulation, colligation, confluence, conjugation, conjunction, conjunction, join, joint, juncture, meeting"
+    ],
+    "juvenile": [
+        "adolescent, immature, jejune, juvenile person, puerile"
+    ],
+    "jeopardy": [
+        "hazard, peril, risk"
+    ],
+    "jealousy": [
+        "green-eyed monster, invidiousness, envy, resentment"
+    ],
+    "jubilant": [
+        "elated, exultant, exulting, gleeful, joyful, joyous, prideful, rejoicing, triumphal, triumphant"
+    ],
+    "kindred": [
+        "cognate, congeneric, incident kin, parallel affiliated, akin, associated, allied"
+    ],
+    "knack": [
+        "aptitude, dexterity, flair, genius ingenuity, propensity quickness, savvy, skill, adroitness, aptness, bent capacity"
+    ],
+    "knickers": [
+        "shorts, slacks, trousers, underpants, bloomers, breeches, briefs, britches, chaps"
+    ],
+    "knickknack": [
+        "bauble, , bric-a-brac, curio, ornament, souvenir, bagatelle, curiosity, device, embellishment, flummery ,frill, furbelow"
+    ],
+    "likelihood": [
+        "probability, chance, prospect, possibility, like liness, odds, feasibility, plausibility, conceiva bility"
+    ],
+    "labyrinth": [
+        "maze, warren, network, complex, web, coil, entanglement"
+    ],
+    "ludicrous": [
+        "absurd, ridiculous, farcical, laughable, risible, preposterous, foolish, idiotic, stupid, inane, silly, asinine, nonsensical"
+    ],
+    "limp": [
+        "hobble, walk with a limp, walk with difficulty, walk lamely, walk haltingly, walk unevenly, falter"
+    ],
+    "menaced": [
+        "be a threat or possible danger to, threatened, in danger"
+    ],
+    "mustered": [
+        "assemble, bring together, call together, marshal, mobilize, rally, round up, raise, summon, gather, gather together, mass, collect, convene, call up, call to arms, recruit, conscript, draft"
+    ],
+    "mean": [
+        "signify, convey, denote, designate, indicate, connote, show, express, spell out, stand for, represent, symbolize, imply, purport, suggest, allude to, intimate, hint at, insinuate, drive at, refer to, cheap"
+    ],
+    "mass": [
+        "pile, heap, stack, clump, cloud, bunch, bundl e, lump"
+    ],
+    "mounting": [
+        "increase, grow, rise, escalate, soar, spiral, lea p up, shoot up, rocket, climb, accumulate, accrue, pile up, build up, multiply, intensify, swell"
+    ],
+    "minimum": [
+        "minimal, least, smallest, least possible, slightest, lowest, rock- bottom, minutest, littlest"
+    ],
+    "mayhem": [
+        "chaos, disorder, confusion, havoc, bedlam, p andemonium, tumult, uproar, turmoil, madn ess, madhouse, hullabaloo, wild disarray, disorganization, maelstrom, troubl e, disturbance, commotion, riot, anarchy, destruction, violence"
+    ],
+    "miniature": [
+        "small-scale, scaled- down, mini; tiny, little, small, minute, baby, t oy, pocket, fun- size, midget, dwarf, pygmy, minuscule, micr oscopic, nanoscopic, micro, diminutive, redu ced, lilliputian"
+    ],
+    "mumbled": [
+        "mutter, murmur, speak indistinctly, talk under one's breath, speak sotto voce, talk to oneself"
+    ],
+    "moulded": [
+        "shape, form, fashion, model, work, construct , frame, make, create, configure, manufactur e, design, sculpt, sculpture, throw"
+    ],
+    "menacing": [
+        "threaten, be a danger to, put at risk, jeopardize, imperil, loom over"
+    ],
+    "meditated": [
+        "contemplate, think about, consider, ponder, cogitate, muse"
+    ],
+    "nuisance": [
+        "pain, pain in the neck, annoyance, pest, bother"
+    ],
+    "naive": [
+        "innocent, unsophisticated, artless, ingenuou s, inexperienced, guileless, unworldly"
+    ],
+    "native": [
+        "domestic, home-grown, home- made, home, local; indigenous, endemic"
+    ],
+    "negate": [
+        "undo, reverse, annul, void, revoke, rescind, a brogate, repeal, retract, countermand, overrule, over turn;"
+    ],
+    "negligence": [
+        "carelessness, neglect, neglect, neglectfulnes s, nonperformance"
+    ],
+    "nemesis": [
+        "bane, curse, scourge, goddess of retributive justice, castigator, avenger, rival"
+    ],
+    "neutral": [
+        "achromatic, amoral, colorless, colourless, ele ctroneutral, impersonal, indifferent, inert, n eutralised, neutralized, nonaligned, nonsubj ective, objective, unmoral, unreactive, viewl ess"
+    ],
+    "niggle": [
+        "bicker, babble, fret, fuss, pettifog, quibble, s quabble"
+    ],
+    "opted for": [
+        "choose, select, pick"
+    ],
+    "on the wrong foot": [
+        "to begin a relationship or project badly"
+    ],
+    "occasionally": [
+        "at times, from time to time, now and again, now and then, on occasion, once in a while"
+    ],
+    "operation": [
+        "cognitive operation, cognitive process, functioning, mathematical operation, mathematical process, mental process, military operation, performance, procedure, process , surgery, surgical operation, surgical procedure, surgical process"
+    ],
+    "plopped": [
+        "flutter, plunk, dangle, droop, drop, flag, flap, flounder, hang, jerk, lop, plump, quiver, sag, slump"
+    ],
+    "presume": [
+        "count on, guess, infer, pretend, suppose surmise conclude, conjecture consider, depend, figure, gather, posit ,postulate predicate, premise, presuppose,"
+    ],
+    "precautions": [
+        "safeguard, preventative/preventive measure, safety measure, insurance, defence, provision;"
+    ],
+    "panting": [
+        "breathing with short, quick breaths; out of breath"
+    ],
+    "purchase": [
+        "buy, acquire, obtain, pick up, snap up, take, secure, procure, come by, pay for, shop for, invest in, put money into"
+    ],
+    "persisted": [
+        "persevere, continue, carry on, go on, keep at it, keep on, keep going, keep it up, not give up, be persistent, be determined, see/follow something through, show determination, press on/ahead, plod on, plough on, stay with something,"
+    ],
+    "pensively": [
+        "pensive, contemplative, reflective, meditative, thoughtful"
+    ],
+    "prime": [
+        "galvanize, groom, ,inform ,innervate ,motivate ,move , notify, prep, provoke, ,rehearse ,stimulate ,tell , train, break in"
+    ],
+    "placidly": [
+        "serene, collected, composes, limpid, unruffled"
+    ],
+    "peered": [
+        "squint, look closely/earnestly, try to see, look through narrowed eyes, narrow one's eyes, screw up one's eyes, crop up, emerge"
+    ],
+    "propelling": [
+        "spur, drive, prompt, precipitate, catapult, m otivate, force, impel"
+    ],
+    "passion": [
+        "fervor, ardour, zeal, warmth, animation"
+    ],
+    "practically": [
+        "almost, nearly, very nearly, virtually, just about, all but, more or less, not far from, close to, in effect, as good as"
+    ],
+    "prone to": [
+        "susceptible, vulnerable, liable, inclined, give n, subject, disposed, predisposed"
+    ],
+    "paraphernalia": [
+        "equipment, stuff, things, apparatus, tackle, k it, implements, tools, utensils, material(s), appliances, rig, outfit, accoutrem ents, appurtenances, impedimenta, miscella neous articles, odds and ends,"
+    ],
+    "prerogative": [
+        "exclusive right, perquisite, privilege"
+    ],
+    "path": [
+        "avenue, direction, highway, lane, line, passage, pathway, procedure, rail, road, roadway, route, street, track, trail, walkway, artery, beat, boulevard, byway"
+    ],
+    "precision": [
+        "preciseness, accuracy, nicety, rigour, exactitude"
+    ],
+    "potential": [
+        "electric potential, expected, latent, likely, possible, p otency, potential difference, potential drop, potentiality, prospective, voltage"
+    ],
+    "promptly": [
+        "quick, quickly, readily, right away, without delay"
+    ],
+    "pizzazz": [
+        "dynamism, oomph, zing, allure, charisma"
+    ],
+    "qualitative": [
+        "having to do with quality or qualities, excellence, fabulous"
+    ],
+    "qualm": [
+        "misgiving, queasiness, scruple, squeamishne ss"
+    ],
+    "quantitative": [
+        "decimal, denary, duodecimal, numeric, num erical, quantifiable, three-figure, valued"
+    ],
+    "quarrel": [
+        "altercate, dispute, dustup, row, run- in, scrap, words, wrangle"
+    ],
+    "quench": [
+        "allay, assuage, extinguish, quell, slake, squel ch"
+    ],
+    "query": [
+        "enquiry, inquiry, interrogation, question, qu estion"
+    ],
+    "queue": [
+        "concatenation, echelon, file, line, order, progression, rank, row, series, string, succession,"
+    ],
+    "quirk": [
+        "crotchet, oddity, queerness, quirkiness"
+    ],
+    "quiver": [
+        "beat, chill, flicker, flitter, flutter, frisson, palp itate, palpitation, pulsate, quake, quivering, quivering, shakine ss, shaking, shiver, shudder, thrill, tingle, trembling, vibration, vi bration, waver"
+    ],
+    "quizzical": [
+        "mocking, perplexed, playful, questioning, tea sing"
+    ],
+    "quotation": [
+        "acknowledgment, citation, credit, mention, quote, reference"
+    ],
+    "rituals": [
+        "ceremony, rite, ceremonial, observance"
+    ],
+    "reinforce": [
+        "strengthen, fortify, bolster up, shore up, buttress, prop up, underpin, brace, stiffen, toughen, suppor t, hold up;"
+    ],
+    "reprimanded": [
+        "rebuke, admonish, chastise, chide, upbraid, r eprove, reproach, scold, remonstrate with, berate, take to task, pull up, castigate, lambaste"
+    ],
+    "riot": [
+        "uproar, rampage, furore, tumult, commotion , upheaval, disturbance, street fight, melee, row, scuffle, fracas, fray, affray, brawl, free-for-all"
+    ],
+    "reluctantly": [
+        "with reluctance"
+    ],
+    "refuge": [
+        "haven, hideaway, hideout, hiding place, protection, resort, retreat, sanctuary, security, shelter, stronghold, ambush, anchorage"
+    ],
+    "regret": [
+        "bemoan, bewail, deplore, lament, repent, ru e, ruefulness, sorrow"
+    ],
+    "rarely": [
+        "seldom, infrequently, on rare occasions, hardly ever, scarcely ever, hardly, scarcely, almost never, once in a while, only now and then, not often,"
+    ],
+    "reproachful": [
+        "disapproving, reproving, full of reproof, critical, censorious, disparaging, dis appointed, withering, accusatory, admonitor y, condemnatory, castigatory, fault-finding"
+    ],
+    "ragged": [
+        "tattered, in tatters, torn, ripped, split, in holes, holey, moth- eaten, frayed, worn, worn out, well worn, worn to shreds, dissonant (sound), scraggy"
+    ],
+    "revolving": [
+        "circle, go, travel, orbit, gyrate, circulate, loop , wheel"
+    ],
+    "resonant": [
+        "deep, sonorous, full, full- bodied, vibrant, rich, clear, ringing, orotund"
+    ],
+    "swarmed up": [
+        "a large group of insects all moving together, gathered, crowded, assembled"
+    ],
+    "scenario": [
+        "plot, outline, storyline, framework, structure , scheme, plan, layou"
+    ],
+    "swathe": [
+        "swaddle, wrapping, enshroud, lap, cocoon"
+    ],
+    "subsequently": [
+        "later, later on, at a later date, at some time/point in the future, at a subsequent time, afterwards, in due course, following this/that, eventually, then, next"
+    ],
+    "struck up": [
+        "to begin singing"
+    ],
+    "string": [
+        "bowed stringed instrument, chain, draw, drawing string, drawstring, linguistic string, strand, string along, string of words, string up, thread, train, twine, word string"
+    ],
+    "sternly": [
+        "earnestly, passionately, sincerely, vigorously, gravely, all joking aside, cool it cut the comedy determinedly, down, rigorously, severely"
+    ],
+    "solemnly": [
+        "earnestly, soberly, gravely, impressively, seriously"
+    ],
+    "succulent": [
+        "moist, tasty, yummy, divine, lush, rich, heavenly, mellow"
+    ],
+    "shuffled": [
+        "drag, , limp, straggle, stumble, muddle, pad, scrape, scuff, scuffle, shamble, trail"
+    ],
+    "sailed": [
+        "cruise, drift, float, fly, leave, move, navigate, reach, run, shoot, skim, soar, steer, sweep, boat, captain, dart, embark, flit"
+    ],
+    "stunt": [
+        "feat, sketch, skit, achievement, act, caper, exploit, feature"
+    ],
+    "sauntered": [
+        "loiter, meander, mope mosey, ramble, roam, sashay, toddle traipse wander, ankle, dally, drift, linger"
+    ],
+    "splendour": [
+        "brilliance, brilliancy, grandeur, grandness, luster, luster, magnificence, splendor"
+    ],
+    "sagged off": [
+        "Slip, flag, sink, abate"
+    ],
+    "speckled with": [
+        "mottled, sprinkled, dappled, flaked, freckled motley, peppered, spotted ,stippled studded, variegated"
+    ],
+    "stable": [
+        "stalwart, staunch, stout, tough, uniform, brick-wall, deep-rooted equable, immutable, perdurable, resolute set in stone, solid as a rock, stationary, staying put, steadfast, sturdy, sure, together"
+    ],
+    "tentatively": [
+        "subject to further confirmation; not definitely."
+    ],
+    "tackle": [
+        "gear, equipment, apparatus, outfit, kit, rig, hardware, dive into, wade into/in"
+    ],
+    "tumultuous": [
+        "loud, deafening, thunderous, thundering, ear-shattering, ear-splitting, ear- piercing, uproarious, noisy, clamorous, vocif erous"
+    ],
+    "tomfoolery": [
+        "silliness, fooling, clowning, capering, capers, antics, pranks, tricks, buffoonery, skylarking, nonsense, horseplay, mischief, foolishness, f oolery, stupidity"
+    ],
+    "tangle": [
+        "entangle, snarl, catch, entwine, intertwine, i ntertwist, twist, ravel, knot, enmesh, coil, m at, jumble, muddle"
+    ],
+    "troughs": [
+        "a long, narrow open container for animals to eat or drink out of, channel, conduit, duct, area b/w waves or hills"
+    ],
+    "tangled": [
+        "baroque, byzantine, complex, complicate, co mplicated, elaborate,intricate, involute, invo lved, knotty, labyrinthian, labyrinthine"
+    ],
+    "urge": [
+        "desire, wish, need, impulse, compulsion, lon ging, yearning, hankering, craving, appetite, hunger, thirst, lust, fancy;"
+    ],
+    "unburdened": [
+        "not burdened or disencumbered, free"
+    ],
+    "unprovoked": [
+        "carried out, occurring, or acting without direct provocation, unfounded, gratuitous, undue, un-called for, indefensible"
+    ],
+    "ventured": [
+        "travel, journey, go, move, proceed, progress, set out, set forth, enterprise"
+    ],
+    "vulnerable": [
+        "in danger, in peril, in jeopardy, at risk, endangered, unsafe, unprotected, ill-protected, unguarded"
+    ],
+    "whipped": [
+        "having been flogged or beaten with a whip, lashed, punished"
+    ],
+    "weighing up": [
+        "hydrostatic weighing, oppressing overburdening"
+    ],
+    "writhing": [
+        "making twisting, squirming movements or contortions of the body"
+    ],
+    "waft": [
+        "drift, float, glide, whirl, travel"
+    ],
+    "yearning": [
+        "longing, pining, craving, desire, want, wish, hankering, urge, need, hunger, hungering, thirst, appetite, greed, lust, ache, burning, fancy, inclination, eagerness, fervour"
+    ],
+    "yelp": [
+        "squeal, squawk, screech, shriek, scream, ho wl, yowl, wail, yell, cry, call, shout, bawl, yawl, whoop"
+    ],
+    "yield": [
+        "surrender, capitulate, submit, relent, admit defeat, accept defeat, concede defeat, back down, climb down, quit, give in, give up the struggle, lay down one's arms, raise/show the white flag"
+    ],
+    "zealous": [
+        "fervent, ardent, fervid, fiery, passionate, imp assioned, devout, devoted;"
+    ],
+    "zenith": [
+        "highest point, high point, crowning point, height, top, acme, peak, pinnacle, ape x, apogee, vertex, tip, crown, crest, summit, climax, culmination, maximum, optimum, prime, meridian, flower;"
+    ],
+    "zest": [
+        "enthusiasm, gusto, relish, zestfulness, appeti te, eagerness, keenness, avidity, zeal, fervour, ardour, passion, love, e njoyment, joy, delight,"
+    ]
+}

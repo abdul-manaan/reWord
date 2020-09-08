@@ -1,0 +1,623 @@
+{
+    "appalling": [
+        "beautiful, calming, comforting, encouraging"
+    ],
+    "astounded": [
+        "calm, clarify, clear up, enlighten, expect, explain, bore, dull"
+    ],
+    "apparently": [
+        "improbably, unlikely, dubiously, equivocally, questionably, uncertain"
+    ],
+    "attached to": [
+        "avoid, differ, disagree, disapprove, disassociate, disconnect, oppose, refuse"
+    ],
+    "appraised": [
+        "ignore, neglect"
+    ],
+    "alas": [
+        "as luck would have it, fortuitously, fortunately, luckily"
+    ],
+    "abruptly": [
+        "friendly, polite, expansive"
+    ],
+    "accentuated": [
+        "masked,"
+    ],
+    "anxieties": [
+        "calmness, serenity"
+    ],
+    "boon": [
+        "curse, disadvantage"
+    ],
+    "bewilderment": [
+        "expectation, clarity"
+    ],
+    "briskly": [
+        "listlessly, slowly, sluggishly"
+    ],
+    "bead (n, v)": [
+        "untidy, chaotic"
+    ],
+    "brimming": [
+        "empty, unfilled"
+    ],
+    "baffling": [
+        "clear comprehensible fathomable"
+    ],
+    "bashful": [
+        "aggressive, bold, forward, confident, unabashed, unshy"
+    ],
+    "beckoned": [
+        "repel, repulse, turn off, deter, push, reply"
+    ],
+    "coveted": [
+        "dislike, hate, abjure, be generous, give, not want"
+    ],
+    "credentials (n, v)": [
+        "disapproval, refusal"
+    ],
+    "capacious": [
+        "cramped, small, squeezed, tiny"
+    ],
+    "collided with": [
+        "aid, assist, halt, help, let go, lose, retreat, stop, surrender, tap"
+    ],
+    "confront": [
+        "avoid, dodge, evade, surrender, yield, back down"
+    ],
+    "compelled": [
+        "dissuade, discourage, halt, leave alone, stop, block, check, delay, deter"
+    ],
+    "crudely": [
+        "ably, adeptly, adroitly, artfully, capably, competently, consummately, deftly, expertly, masterfully, masterly, proficiently, skillfully, well"
+    ],
+    "coaxed": [
+        "discourage, repel, repulse, turn off, disenchant, disgust"
+    ],
+    "comprehension": [
+        "ignorance, inability, incomprehension, misinterpretation, mistake, misunderstanding"
+    ],
+    "curious": [
+        "incurious, unconcerned, average, disinterested, indifferent, normal, ordinary, uninterested"
+    ],
+    "casually": [
+        "cautiously, attentively, meticulously"
+    ],
+    "confining": [
+        "delimiting, freeing, liberating releasing"
+    ],
+    "crammed": [
+        "abstain, diet, fast, let go, nibble, pull, release, surrender, uncompressed"
+    ],
+    "confirm": [
+        "confuse, , contradict, deny, disallow, disapprove, discredit, disprove, invalidate, refuse, reject, disagree"
+    ],
+    "cautioned": [
+        "abruptness, hastiness, impetuousness, precipito usness, rashness, suddenness inconsiderateness, inconsideration, thoughtless ness"
+    ],
+    "captivated": [
+        "annoy, bore, depress, disappoint, disenchant, disgust, displease, disturb, forget, offend, pain, refuse"
+    ],
+    "condescended": [
+        "contradict, decline, deny, disagree, disallow, disapprove, disobey, dispute"
+    ],
+    "criteria": [
+        "change, conjecture, fancy, guess, possibility, probability"
+    ],
+    "daintily": [
+        "difficultly, roughly, un-carefully, heavily"
+    ],
+    "dispute": [
+        "accord, agreement, calm, concord, concurrence, harmony, peace, quiet"
+    ],
+    "distract": [
+        "anger, bore, calm ,clarify, clear up, comfort, explain, tire, upset, help, make happy, soothe"
+    ],
+    "drummed": [
+        "banged, bashed, batted, bonked, bopped, hammered, hit, knocked, pasted"
+    ],
+    "dilapidated": [
+        "sound, stable, ok, repaired"
+    ],
+    "disconsolately": [
+        "confidently, expectantly, hopefully,"
+    ],
+    "delicately": [
+        "indelicately, strongly, un-carefully"
+    ],
+    "dank": [
+        "arid, dry, parched"
+    ],
+    "disguise": [
+        "back, character honesty, personality, reality, rear"
+    ],
+    "definite": [
+        "ambiguous, doubtful, equivocal, fuzzy, indefinite, indistinct, inexact, obscure, questionable, uncertain, unclear unsure,"
+    ],
+    "dispensing": [
+        "conceal, hide, hoard, ,hold, keep, retain secret, attach"
+    ],
+    "enchanted": [
+        "repel, bore"
+    ],
+    "encouraged": [
+        "discouraged, disheartened, dispirited"
+    ],
+    "exude": [
+        "conceal, deny, fill, hide, hold, keep, load, refuse"
+    ],
+    "eccentric": [
+        "common, conventional, familiar, normal, ordinary, reasonable"
+    ],
+    "excursion": [
+        "stay,"
+    ],
+    "elaborate": [
+        "easy, facile, natural, simple, uncultured, unrefined, unsophisticated, general, normal"
+    ],
+    "exasperation": [
+        "calm, cheer, delight, enjoyment, ,happiness , joy, peace, pleasure, calming"
+    ],
+    "expansive": [
+        "narrow, limited ,quiet, reserved, silent"
+    ],
+    "exaggeration": [
+        "truth, compression, decrease, lessening, shrinkage, minimization"
+    ],
+    "evaluates": [
+        "neglect"
+    ],
+    "fatality": [
+        "birth"
+    ],
+    "flicked": [
+        "float, hang, hover"
+    ],
+    "flawlessly": [
+        "amiss, badly, defectively, faultily, imperfectly, wrongly"
+    ],
+    "friction": [
+        "agreement, harmony, peace"
+    ],
+    "fluttered": [
+        "be still, steady, calm, remain, soothe, stay"
+    ],
+    "gingerly": [
+        "careless, rash, rough, incautious"
+    ],
+    "glistening": [
+        "dark, dull, gloomy, rough, coarse"
+    ],
+    "fringed": [
+        "center, core, heart, inner, inside, interior, middle, , within"
+    ],
+    "glared": [
+        "grin, smile, aid, assist, help"
+    ],
+    "groggy": [
+        "clear, stable, steady, unshaky, clear- headed, cognizant,"
+    ],
+    "heap": [
+        "debt, ditch, individual, lack, little, need, one, part, valley, want, bit"
+    ],
+    "hideous": [
+        "agreeable, attractive, beautiful, comforting, common, delightful, friendly, gentle, ,great happy"
+    ],
+    "habitat": [
+        "unnatural surroundings"
+    ],
+    "haggard": [
+        "colorful, fat, plump, thick, fresh, ,healthy ,hearty ,strong"
+    ],
+    "haphazardly": [
+        "methodically, systematically"
+    ],
+    "harmony": [
+        "disagreement, discord, dislike, hatred, incompatibility, cacophony, clash, ,disproportion fighting"
+    ],
+    "haughty": [
+        "humble, shy, meek, timid,"
+    ],
+    "hearsay": [
+        "quiet, silence ,evidence ,proof , reality, testimony"
+    ],
+    "havoc": [
+        "blessing, boon, building, calm, creation, good, fortune, good luck"
+    ],
+    "intended": [
+        "unfixed"
+    ],
+    "in vain": [
+        "deadly, effective, effectual, efficacious, efficient , fruitful, potent, productive, profitable,successf ul, virtuous"
+    ],
+    "illumination": [
+        "dullness, darkness, dimness, ignorance"
+    ],
+    "invariably": [
+        "intermittently, occasionally, periodically, someti mes, sporadically, infrequently, rarely, seldom,"
+    ],
+    "irritable": [
+        "happy, pleasant, cheerful, nice"
+    ],
+    "insinuated": [
+        "conceal, hide, leave alone, withhold,"
+    ],
+    "intently": [
+        "distractedly"
+    ],
+    "industry": [
+        "idleness, indolence, laziness, lethargy, unemployment, worthlessness"
+    ],
+    "intolerable": [
+        "good, tolerable, acceptable, bearable"
+    ],
+    "imperceptibly": [
+        "audible, observable, recognizable, tangible, visible, clear, conspicuous, evident"
+    ],
+    "judicial": [
+        "uncritical, noncritical, illegal"
+    ],
+    "judgment": [
+        "ignorance, inability, ineptness, stupidity, misunderstanding, ,unsoundness ,inanity , indecision ,misjudgment ,"
+    ],
+    "junction": [
+        "detachment, disunion ,division ,divorce ,estrangement ,parting , separation severance"
+    ],
+    "juvenile": [
+        "adult"
+    ],
+    "jeopardy": [
+        "assurance, certainty, plan, safety, surety, protection"
+    ],
+    "jealousy": [
+        "benevolence, goodwill, kindness, sympathy"
+    ],
+    "jubilant": [
+        "depressed, discouraged, sad, sorrowful, unenthusiastic, unexcited"
+    ],
+    "kindred": [
+        "unrelated"
+    ],
+    "knack": [
+        "disinclination, inability, incapacity, ineptness, ignorance, incompetence, lack, ineptitude"
+    ],
+    "knickers": [
+        "overgarment"
+    ],
+    "knickknack": [
+        "familiarity, commonality, abundance, natural, object, unoriginality"
+    ],
+    "likelihood": [
+        "unlikelihood, implausibility"
+    ],
+    "labyrinth": [
+        "ease, line, order, organization simplicity"
+    ],
+    "ludicrous": [
+        "common, familiar, grave, matched, normal, ordinary, reasonable, sad, sensible"
+    ],
+    "limp": [
+        "firm, hard, rigid, activated, active, animated, energized, fresh, invigorated, lively"
+    ],
+    "menaced": [
+        "assist, guard, help, protect, save, calm"
+    ],
+    "mustered": [
+        "avoid, cancel, destroy, dismiss, disorganize, disperse"
+    ],
+    "mean": [
+        "decent, ignore"
+    ],
+    "mass": [
+        "dissolution, fraction, individual, one, opening ,part"
+    ],
+    "mounting": [
+        "decrease, lessen, lower, descend, alight decline dismount, drop, fall"
+    ],
+    "minimum": [
+        "largest, maximum, most"
+    ],
+    "mayhem": [
+        "calm, peace, harmony"
+    ],
+    "miniature": [
+        "baby, midget, model, toy, insignificancy, pocket ,edition"
+    ],
+    "mumbled": [
+        "speak clearly, be quiet, listen,"
+    ],
+    "moulded": [
+        "combine, unite, increase, join, mend, sew"
+    ],
+    "menacing": [
+        "remote, aiding, assisting, helping, unthreatening"
+    ],
+    "meditated": [
+        "ignore, neglect, disbelieve, disregard, forget, dismiss,"
+    ],
+    "nuisance": [
+        "advantage, aid cheer, comfort, convenience, good health, happiness, help ,joy, pleasure, delight, pleasantry"
+    ],
+    "naive": [
+        "aware, experienced, intelligent, knowledgeable sophisticated, leery, skeptical, wise"
+    ],
+    "native": [
+        "auxiliary, minor, secondary, unimportant, alien, foreign, outside"
+    ],
+    "negate": [
+        "allow, approve, do, help, permit, prove, save, validate, agree, aid, assist, confirm, corroborate, enact, establish"
+    ],
+    "negligence": [
+        "accomplishment, ,achievement, attention, care, regard, respect, success,"
+    ],
+    "nemesis": [
+        "advantage, associate, happiness,"
+    ],
+    "neutral": [
+        "biased, concerned, decided, interested, involved, prejudiced, agitated, excited, bright,"
+    ],
+    "niggle": [
+        "agree, ignore, praise"
+    ],
+    "opted for": [
+        "ignore, reject, grow, plant, refuse,"
+    ],
+    "on the wrong foot": [
+        "Redress, right, true, compensate, sensible, correct, thoughtful, well-guided, reasonable, wise, rightfulness"
+    ],
+    "occasionally": [
+        "always, constantly, frequently, regularly, steadily, usually"
+    ],
+    "operation": [
+        "cessation, idleness, inaction, inactivity, indolence, inertia, laziness, passivity, stoppage,"
+    ],
+    "plopped": [
+        "ascend, do well, increase, rise,"
+    ],
+    "presume": [
+        "disbelieve, doubt, measure, disregard, distrust, forget, ignore,"
+    ],
+    "precautions": [
+        "harm, hurt, injury, neglect, negligence, thoughtlessness,"
+    ],
+    "panting": [
+        "fall, hypopnea, hyperpnea, breathless, natural object "
+    ],
+    "purchase": [
+        "sale, sell"
+    ],
+    "persisted": [
+        "cease, discontinue, give up, go, halt, leave, stop, forget, quit"
+    ],
+    "pensively": [
+        "vacant, joyous, unreflecting, careless, thoughtless"
+    ],
+    "prime": [
+        "dissuade, forget, hide, listen, secret, stop, neglect"
+    ],
+    "placidly": [
+        "audibly, loudly, publicly"
+    ],
+    "peered": [
+        "antagonist, enemy, foe, hinderer, opponent, opposer, rival, stranger"
+    ],
+    "propelling": [
+        "discourage, dissuade, pull, repress, end, finish, ,stop, hinder,"
+    ],
+    "passion": [
+        "apathy, calm, calmness, coolness, dullness, happiness, indifference, lethargy, peace, advantage, benefit, cheer"
+    ],
+    "practically": [
+        "far, not close"
+    ],
+    "prone to": [
+        "indifferent, unwilling, disinclined, independent, opposed, unaccustomed"
+    ],
+    "paraphernalia": [
+        "avoid, outspan, detach, unharness, disassemble."
+    ],
+    "prerogative": [
+        "duty, obligation"
+    ],
+    "path": [
+        "closing, blockage"
+    ],
+    "precision": [
+        "carelessness, disregard, ignorance, inaccuracy, inattention, inexactness"
+    ],
+    "potential": [
+        "impotence, inability, incompetence, weakness, impossible, lack"
+    ],
+    "promptly": [
+        "slowly, late, negligently"
+    ],
+    "pizzazz": [
+        "idleness, impotence, inability, inactivity, incapacity incompetence, indifference, ineffectiveness, lack, laziness, lethargy, lifelessness, powerlessness, reality"
+    ],
+    "qualitative": [
+        "quantitative objective"
+    ],
+    "qualm": [
+        "calm, calmness, certainty, collectedness, ease, happiness, peace, sureness, trust"
+    ],
+    "quantitative": [
+        "imperceptible, insignificant, undeterminable, ,unmeasurable"
+    ],
+    "quarrel": [
+        "concurrence, harmony, order, peace, quiet, approval, calmness, praise"
+    ],
+    "quench": [
+        "bear, begin, build construct, create fix, give birth, help"
+    ],
+    "query": [
+        "answer, reply, be certain, believe, praise, trust"
+    ],
+    "queue": [
+        "noncompliance, nonconformity, empty"
+    ],
+    "quirk": [
+        "normality, usualness, inability"
+    ],
+    "quiver": [
+        "dullness, quiet, stillness"
+    ],
+    "quizzical": [
+        "certain, understanding"
+    ],
+    "quotation": [
+        "whole, refusal"
+    ],
+    "rituals": [
+        "difference, neglect, disagreement, discord"
+    ],
+    "reinforce": [
+        "hurt, lessen, let down play down, prevent, reduce, undermine, weaken"
+    ],
+    "reprimanded": [
+        "commend, compliment, flatter, laud, praise, exonerate, forgive"
+    ],
+    "riot": [
+        "comply, obey, cooperate, make peace,"
+    ],
+    "reluctantly": [
+        "willlingly, eagerly"
+    ],
+    "refuge": [
+        "closure, entrance, permanent, solid"
+    ],
+    "regret": [
+        "comfort, contentment, delight, happiness, joy, pleasure, relief, satisfaction,"
+    ],
+    "rarely": [
+        "frequently, regularly"
+    ],
+    "reproachful": [
+        "kind, nice, respectful, complimentary"
+    ],
+    "ragged": [
+        "even, fixed, nice, polite, smooth kempt, new"
+    ],
+    "revolving": [
+        "static, still, motionless"
+    ],
+    "resonant": [
+        "faint quiet"
+    ],
+    "swarmed up": [
+        "thinned down, decreased, minimized"
+    ],
+    "scenario": [
+        "Vague picture"
+    ],
+    "swathe": [
+        "uncover"
+    ],
+    "subsequently": [
+        "earlier, former, prior"
+    ],
+    "struck up": [
+        "humble, modest"
+    ],
+    "string": [
+        "individual, unstring"
+    ],
+    "sternly": [
+        "casually, funnily, lightly, minor, trivially"
+    ],
+    "solemnly": [
+        "frivolous, insincere"
+    ],
+    "succulent": [
+        "unappetizing, dry, unjuicy,"
+    ],
+    "shuffled": [
+        "rush, arrange, order, organize, run"
+    ],
+    "sailed": [
+        "go, land, remain, stay, stop, walk"
+    ],
+    "stunt": [
+        "failure"
+    ],
+    "sauntered": [
+        "go direct, stay, go, hurry, rush, run"
+    ],
+    "splendour": [
+        "dull, dreary, ordinary"
+    ],
+    "sagged off": [
+        "Fix, uphold, dress up"
+    ],
+    "speckled with": [
+        "plain, un-speckled"
+    ],
+    "stable": [
+        "temporary, undependable, unfixed, unprotected, unreliable, unsafe, unstable, untrustworthy vulnerable, weak, changeable, changing, different, flexible, indefinite, irresolute"
+    ],
+    "tentatively": [
+        "certainly, definitely, surely"
+    ],
+    "tackle": [
+        "avoid, evade, shun dally, dawdle, dillydally, fiddle (around), fool, idle, lag, mess, monkey (around), play, poke, potter (around), putter (around), trifle"
+    ],
+    "tumultuous": [
+        "mild, moderate, peaceful, quiet, orderly"
+    ],
+    "tomfoolery": [
+        "sense, seriousness"
+    ],
+    "tangle": [
+        "organization simplicity line peace"
+    ],
+    "troughs": [
+        "crest, peak, protuberance, cockscomb"
+    ],
+    "tangled": [
+        "noncomplex, plain, simple, uncomplicated"
+    ],
+    "urge": [
+        "dislike, distaste, hate, hatred, indifference, block, deterrent,"
+    ],
+    "unburdened": [
+        "dishonest, fastened, inaccessible, locked, lying, obstructed, shifty, shut, subjective, sure, unavailable, unclear vague"
+    ],
+    "unprovoked": [
+        "justified, proven, reasonable, sensible, unprejudiced, warranted, called-for"
+    ],
+    "ventured": [
+        "sure thing"
+    ],
+    "vulnerable": [
+        "protected, safe, secure, strong, unsusceptible, closed"
+    ],
+    "whipped": [
+        "bridle, check, constrain, curb, discourage, hold, inhibit, regulate, rein (in), restrain, tame allay, calm, quiet, settle, soothe, still, subdue, tranquilize"
+    ],
+    "weighing up": [
+        "Slight, exonerate, forget, ignore, pooh-pooh, disregard, overlook, leave alone"
+    ],
+    "writhing": [
+        "relax, rest, unwind, calm (down), still"
+    ],
+    "waft": [
+        "hold, keep, take"
+    ],
+    "yearning": [
+        "disinterest, dislike, distaste, hate hatred, indifference, satisfaction,"
+    ],
+    "yelp": [
+        "murmur, mutter, whisper"
+    ],
+    "yield": [
+        "bills, debt, payment,"
+    ],
+    "zealous": [
+        "cold, cool, dispassionate, frigid, happy indifferent, unconcerned, unenthusiastic"
+    ],
+    "zenith": [
+        "bottom, depth, lowness, nadir, start, unimportance,"
+    ],
+    "zest": [
+        "blandness, boredom dullness, idleness, lethargy, indifference, laziness"
+    ]
+}
